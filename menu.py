@@ -1,4 +1,4 @@
-from blog import Blog
+from models.blog import Blog
 from database import Database
 
 
